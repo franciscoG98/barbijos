@@ -1,6 +1,8 @@
 .container {
     height: 100vh;
     padding: 10vh;
+    background-color: #eee;
+    border: 5px solid rgb(95, 218, 218);
 }
 
 
