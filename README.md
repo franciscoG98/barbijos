@@ -1,3 +1,7 @@
+# See my work
+
+This project is hosted on Vercel and you can see it [HERE](https://barbijos.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
