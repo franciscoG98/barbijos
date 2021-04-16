@@ -1,0 +1,17 @@
+#Products {
+    display: flex;
+    background: #5fdada;
+}
+
+.media-box {
+    /* border: 5px solid #5fdada; */
+    height: auto;
+    position: relative;
+    margin: 3vw;
+    width: 25vw;
+}
+
+.media-box img {
+    height: 20vw;
+    width: 20vw;
+}

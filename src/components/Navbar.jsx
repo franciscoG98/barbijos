@@ -3,11 +3,12 @@ import React from 'react';
 function Navbar() {
     return (
         // <nav className="navbar navbar-light bg-light" role="navigation">
-        <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+        <nav className="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
 
             {/* BRAND */}
-            <a className="navbar-brand" href="www.google.com" target='_blank'>
+            <a className="navbar-brand" href="/">
                 {/* <img src="../" width="30" height="30" className="d-inline-block align-top" alt="" /> */}
+                {/* <h1>Barbijos</h1> */}
                 Barbijos
             </a>
 

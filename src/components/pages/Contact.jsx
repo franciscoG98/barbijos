@@ -3,9 +3,9 @@ import './pageStyles.css';
 
 function Contact() {
     return (
-        <div className="container" id="Contact">
-            Contact
-        </div>
+        <section className="container" id="Contact">
+            <h2>Contact</h2>
+        </section>
     )
 }
 

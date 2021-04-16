@@ -3,9 +3,9 @@ import './pageStyles.css';
 
 function Shiping() {
     return (
-        <div className="container" id="Shiping">
-            Shiping
-        </div>
+        <section className="container" id="Shiping">
+            <h2>Shiping</h2>
+        </section>
     )
 }
 

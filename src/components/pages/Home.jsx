@@ -3,9 +3,9 @@ import './pageStyles.css';
 
 function Home() {
     return (
-        <div className="container" id="Home">
-            Home
-        </div>
+        <section className="container" id="Home">
+            <h2>Home</h2>
+        </section>
     )
 }
 

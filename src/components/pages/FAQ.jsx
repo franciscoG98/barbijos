@@ -3,9 +3,9 @@ import './pageStyles.css';
 
 function FAQ() {
     return (
-        <div className="container" id="FAQ">
-            FAQ
-        </div>
+        <section className="container" id="FAQ">
+            <h2>FAQ</h2>
+        </section>
     )
 }
 
