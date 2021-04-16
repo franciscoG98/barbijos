@@ -6,7 +6,7 @@ function Navbar() {
         <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
 
             {/* BRAND */}
-            <a className="navbar-brand" href="#">
+            <a className="navbar-brand" href="www.google.com" target='_blank'>
                 {/* <img src="../" width="30" height="30" className="d-inline-block align-top" alt="" /> */}
                 Barbijos
             </a>
