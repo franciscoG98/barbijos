@@ -1,9 +1,9 @@
 import React from 'react';
-import './pageStyles.css';
+import '../pageStyles.css';
 import './ProductStyles.css';
-import black from '../../media/NanoDak-black.jpeg';
-import blue from '../../media/NanoDak-blue.jpeg';
-import white from '../../media/NanoDak-white.jpeg';
+import black from '../../../media/NanoDak-black.jpeg';
+import blue from '../../../media/NanoDak-blue.jpeg';
+import white from '../../../media/NanoDak-white.jpeg';
 
 function Products() {
     return (

@@ -20,12 +20,12 @@ function Navbar() {
             {/* LINKS */}
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-item nav-link" href="#Home">Home <span class="sr-only">(current)</span></a>
-                    <a class="nav-item nav-link" href="#Features">Features</a>
+                    {/* <a class="nav-item nav-link" href="#Home">Home <span class="sr-only">(current)</span></a> */}
                     <a class="nav-item nav-link" href="#Products">Products</a>
+                    <a class="nav-item nav-link" href="#FAQ">FAQ</a>
+                    <a class="nav-item nav-link" href="#Features">Features</a>
                     <a class="nav-item nav-link" href="#Shiping">Shiping</a>
                     <a class="nav-item nav-link" href="#Contact">Contact</a>
-                    <a class="nav-item nav-link" href="#FAQ">FAQ</a>
                 </div>
 
                 {/* search */}

@@ -1,0 +1,44 @@
+#Features {
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+}
+
+.box {
+    background-color: #5fdada;
+    border: 3px solid #131313;
+    padding: 3vw;
+    position: relative;
+    width: 30vw;
+}
+
+#Features img {
+    margin: 0 10% 0 10%;
+    height: 20vh;
+    width: auto;
+}
+
+.box a {
+    color: inherit;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+}
+
+.box a:hover {
+    font-weight: 900;
+}
+
+#Features ul {
+    margin-top: 10vh ;
+}
+
+#envio {
+    margin-left: 35%;
+    font-size: 5vh;
+}
+
+#conicet-text {
+    width: 16vw;
+    margin: 10% 0 0 10%;
+}

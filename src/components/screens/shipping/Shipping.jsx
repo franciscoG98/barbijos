@@ -1,5 +1,5 @@
 import React from 'react';
-import './pageStyles.css';
+import '../pageStyles.css';
 
 function Shiping() {
     return (
